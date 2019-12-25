@@ -1,12 +1,12 @@
-1. Breakfast foods
-2. Gifts
-3. Flowers
-4. Ice cream flavors
-5. A drink
-6. Toys
-7. Cities
-8. Things in the kitchen
-9. Ocean things
-10. Nicknames
-11. Hobbies
-12. Parts of the body
+1. Sandwiches
+2. Items in a catalog
+3. World leaders/Poloticians
+4. School subjects
+5. Excuses for being late
+6. Ice cream flavors
+7. Things that jump/bounce
+8. Television stars
+9. Things in a park
+10. Foriegn cities
+11. Stones/Gems
+12. Musical instruments
