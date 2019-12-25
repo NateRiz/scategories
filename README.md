@@ -1,12 +1,12 @@
-1. Sandwiches
-2. Items in a catalog
-3. World leaders/Poloticians
-4. School subjects
-5. Excuses for being late
-6. Ice cream flavors
-7. Things that jump/bounce
-8. Television stars
-9. Things in a park
-10. Foriegn cities
-11. Stones/Gems
-12. Musical instruments
+1. Nicknames
+2. Things in the sky
+3. Pizza toppings
+4. Colleges/Universities
+5. Fish
+6. Countries
+7. Things that have spots
+8. Historical Figures
+9. Something you’re afraid oF
+10. Terms of endearment
+11. Items in this room
+12. Drugs that are abused
