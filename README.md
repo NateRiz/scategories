@@ -1,14 +1,13 @@
-
-LIST EIGHTEEN:
-1. Reasons to make a phone call
-2. Types of weather
-3. Titles people can have
-4. Things that have buttons
-5. Items you take on a road trip
-6. Things that have wheels
-7. Reasons to call 911
-8. Things that make you smile
-9. Ways to kill time
-10. Things that can get you fired
-11. Hobbies
-12. Holiday Activities
+LIST SEVENTEEN:
+1. Honeymoon spots
+2. Things you buy for kids
+3. Things that can kill you
+4. Reasons to take out a loan
+5. Words associated with winter
+6. Things to do on a date
+7. Historic events
+8. Things you store items in
+9. Things you do everyday
+10. Things you get in the mail
+11. Things you save up to buy
+12. Things you sit/on
