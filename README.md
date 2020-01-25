@@ -1,14 +1,16 @@
-LIST SIXTEEN:
-_-_-_-_
-1. Kinds of soup
-2. Things found in New York
-3. Things you get tickets for
-4. Things you do at work
-5. Foreign words used in English
-6. Things you shouldn’t touch
-7. Spicy foods
-8. Things at a carnival
-9. Things you make
-10. Places to hangout
-11. Animal noises
-12. Computer programs
+
+
+
+LIST FIFTEEN:
+1. Words with double letters
+2. Children’s books
+3. Things found at a bar
+4. Sports played outdoors
+5. Names used in songs
+6. Foods you eat raw
+7. Places in Europe
+8. Olympic events
+9. Things you see at the zoo
+10. Math terms
+11. Animals in books or movies
+12. Things to do at a party
