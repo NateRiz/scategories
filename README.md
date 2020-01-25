@@ -1,13 +1,13 @@
-LIST SEVENTEEN:
-1. Honeymoon spots
-2. Things you buy for kids
-3. Things that can kill you
-4. Reasons to take out a loan
-5. Words associated with winter
-6. Things to do on a date
-7. Historic events
-8. Things you store items in
-9. Things you do everyday
-10. Things you get in the mail
-11. Things you save up to buy
-12. Things you sit/on
+LIST SIXTEEN:
+1. Kinds of soup
+2. Things found in New York
+3. Things you get tickets for
+4. Things you do at work
+5. Foreign words used in English
+6. Things you shouldn’t touch
+7. Spicy foods
+8. Things at a carnival
+9. Things you make
+10. Places to hangout
+11. Animal noises
+12. Computer programs
